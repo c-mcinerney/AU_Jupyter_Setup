@@ -1,5 +1,5 @@
 
-###Jupyter Labs setup guide for MacOS
+### Jupyter Labs setup guide for MacOS
 
 This repo was built to assist new users setting up Jupyter Labs, Python, Pip, and all required packages on a Macbook running MacOS. There are three methodes in which you can use this repo. 
 
