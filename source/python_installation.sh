@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 # install python
 brew install python
 
