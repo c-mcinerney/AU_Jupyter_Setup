@@ -17,7 +17,7 @@ pip install --upgrade pip
 pip install --no-input pandas
 pip install --no-input scipy
 pip install --no-input datetime
-pip install --no-input openvc-python
+pip install --no-input opencv-python
 pip install --no-input glob2
 pip install --no-input jupyterlab
 
